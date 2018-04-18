@@ -1,0 +1,19 @@
+in sumfuncmap ---------------->>>>>>>> 2
+in sumfuncmap ---------------->>>>>>>> 3
+in sumfuncmap ---------------->>>>>>>> 4
+18/04/12 06:10:12 INFO Executor: Running task 1.0 in stage 0.0 (TID 1)
+in sumfuncmap ---------------->>>>>>>> 5
+in sumfuncmap ---------------->>>>>>>> 6
+in sumfuncmap ---------------->>>>>>>> 7
+18/04/12 06:10:12 INFO TaskSetManager: Finished task 1.0 in stage 0.0 (TID 1) in 11 ms on localhost (2/3)
+in sumfuncmap ---------------->>>>>>>> 8
+in sumfuncmap ---------------->>>>>>>> 9
+in sumfuncmap ---------------->>>>>>>> 10
+
+#############################
+
+in sumfuncpartition ---------------->>>>>>>> 7
+18/04/12 06:11:22 INFO TaskSetManager: Finished task 0.0 in stage 0.0 (TID 0) in 262 ms on localhost (1/3)
+in sumfuncpartition ---------------->>>>>>>> 16
+18/04/12 06:11:22 INFO Executor: Running task 2.0 in stage 0.0 (TID 2)
+in sumfuncpartition ---------------->>>>>>>> 25
